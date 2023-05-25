@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clickernux
 - 👀 I’m interested in programming and DIY electronic.
-- 🌱 I’m currently learning C#, Electronic, Dart and Flutter.
+- 🌱 I’m currently learning Electronic, Dart and Flutter.
 - 📫 clickernux@gmail.com | [twitter - _naing_](https://twitter.com/_naing_)
 
 <!---
